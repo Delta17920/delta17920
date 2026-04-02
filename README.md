@@ -1,13 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Pratik%20Bangerwa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Jack%20Of%20All%20Stacks&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=delta17920">
-    <img src="https://komarev.com/ghpvc/?username=delta17920&label=Profile%20views&color=00FFFF&style=flat-square" alt="delta17920's profile views" />
-  </a>
-</p>
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=a371f7&center=true&vCenter=true&width=600&lines=The+best+way+to+predict+the+future+is+to+build+it.+—+Alan+Kay" alt="Typing SVG" />
+  <i>❝ The best way to predict the future is to build it. - Alan Kay ❞</i>
 </p>
 
 <div align="center">
